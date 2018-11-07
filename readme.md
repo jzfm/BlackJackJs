@@ -1,1 +1,1 @@
-A simple browser js blackack app.
+A simple js blackack browser app.
