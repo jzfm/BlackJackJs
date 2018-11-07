@@ -1,0 +1,1 @@
+A simple browser js blackack app.
